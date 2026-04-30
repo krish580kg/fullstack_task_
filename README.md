@@ -1,6 +1,6 @@
 # 📘 Full Stack Lab Exam Project
 
-### 👨‍💻 By: Abhinav Varshney
+### 👨‍💻 By: Krish Gupta
 
 ---
 
